@@ -29,7 +29,7 @@ SQLAlchemy==1.3.22
 
 # Usage
 
-You can run the applicationon using  CLI or Jupyternote book
+You can run the application using  CLI or Jupyternote book
 
 $python filename
 
